@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Encriptador</title>
+</head>
+
+<body>
+    <div class="contenedor">
+        <div class="centrar">
+            <div class="cuadro">
+                <textarea placeholder="Ingrese el mensaje a encriptar" id="input"></textarea>
+            </div>
+
+            <div class="cuadro">
+                <textarea id="output" readonly></textarea>
+            </div>
+        </div>
+        <p class="frase">¡Solo letras minúsculas y sin acentos!</p>
+
+        <div class="botones">
+            <input type="submit" value="Encriptar" id="encriptar">
+            <input type="submit" value="Desencriptar" id="desencriptar">
+            <input type="submit" value="Copiar" id="copiar">
+        </div>
+
+        <div class="pie-pagina">
+            <p>Realizado por Louis Gerardo Serrano Alamo</p>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="logic.js"></script>
+</body>
+</html>
