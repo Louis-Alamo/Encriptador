@@ -1,10 +1,6 @@
-<center><img src="https://raw.githubusercontent.com/Nagisa054/alua_challengs-01-encriptador/main/img/insignia.png" width="300px"></center>
-
 # CHALLENGE 01 | Orealce + Alura 
 
 ## 👨‍💻 Codificador / Encriptador de texto 👨‍💻
-
-<img src="https://raw.githubusercontent.com/Nagisa054/alua_challengs-01-encriptador/main/img/portada.jpg">
 
 ## 📑descripción📑
 
@@ -44,4 +40,3 @@ Siguiendo estas normas un ejemplo sería:
 
 #
 
-<center><img src="https://raw.githubusercontent.com/Nagisa054/alua_challengs-01-encriptador/main/img/one.png" width ="250px"></center>
